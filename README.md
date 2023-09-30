@@ -1,7 +1,3 @@
-Understood! Here's a `README.md` for a Clean Architecture project using Express for the presentation layer:
-
----
-
 # Express Clean Architecture Project
 
 This project embodies a foundational implementation of Clean Architecture using ExpressJS for the presentation layer.

@@ -1,7 +1,7 @@
 {
-  "name": "adonis-clean",
+  "name": "node-clean",
   "version": "1.0.0",
-  "description": "Basic implementation of Clean Architecture and Express",
+  "description": "Basic implementation of Clean Architecture and ExpressJS",
   "scripts": {
     "start": "node dist/main/server.js",
     "build": "rimraf dist && tsc -p tsconfig-build.json"

@@ -69,10 +69,3 @@ The project uses a directory structure based on these architectural layers, ensu
 
 Contributions are welcome! Please ensure that any changes made are in line with the Clean Architecture principles and that all tests pass before opening a pull request.
 
-## License
-
-This project is licensed under the ISC License.
-
----
-
-Adjust the above template as needed, especially links, directory paths, or specific architectural choices made in the project.
